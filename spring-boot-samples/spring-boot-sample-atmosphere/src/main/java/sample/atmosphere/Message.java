@@ -20,7 +20,7 @@ import java.util.Date;
 
 public class Message {
 
-	private String messagee;
+	private String message;
 
 	private String author;
 
